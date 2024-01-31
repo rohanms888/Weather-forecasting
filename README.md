@@ -26,12 +26,7 @@ https://the-weather-forecasting.netlify.app
 
 ## ⚡ Install
 
-- Clone the repository:
 
-```bash
-git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
-
-```
 
 - Install the packages using the command `npm install`
 
